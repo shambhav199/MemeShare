@@ -70,5 +70,3 @@ Want to improve MemeShare? Fork the repo and submit a pull request. Let's build 
 This project is **open-source** under the [MIT License](LICENSE).  
 
 ---
-
-This README is **structured, detailed, and professional** to make your GitHub project look polished and well-documented. Let me know if you want any modifications! 🚀
